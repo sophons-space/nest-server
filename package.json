@@ -14,8 +14,8 @@
 	},
 	"dependencies": {
 		"@nestjs/common": "^7.6.5",
-		"@nestjs/core": "^7.6.5",
-		"@nestjs/platform-express": "^7.6.5",
+		"@nestjs/core": "^7.6.11",
+		"@nestjs/platform-express": "^7.6.11",
 		"@nestjs/swagger": "^4.7.2",
 		"@sophons/nest-tools": "^0.1.0",
 		"@sophons/redis": "^0.1.1",
