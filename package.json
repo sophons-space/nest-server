@@ -24,7 +24,7 @@
 		"@types/ioredis": "^4.19.4",
 		"@types/lodash": "^4.14.168",
 		"@types/module-alias": "^2.0.0",
-		"@types/node": "^14.14.7",
+		"@types/node": "^14.14.25",
 		"@types/validator": "^13.1.0",
 		"class-transformer": "^0.3.1",
 		"class-validator": "^0.12.2",
