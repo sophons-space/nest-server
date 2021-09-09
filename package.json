@@ -36,7 +36,7 @@
 		"class-validator": "^0.12.2",
 		"crypto-js": "^4.0.0",
 		"form-data": "^4.0.0",
-		"helmet": "^4.2.0",
+		"helmet": "^4.6.0",
 		"ioredis": "^4.27.9",
 		"lodash": "^4.17.21",
 		"module-alias": "^2.2.2",
